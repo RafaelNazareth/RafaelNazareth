@@ -58,9 +58,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RafaelNazareth&repo=Projeto-Unes&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/RafaelNazareth/TecBlog">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RafaelNazareth&repo=TecBlog&theme=tokyonight"/>
-</a>
 
 </p>
 
