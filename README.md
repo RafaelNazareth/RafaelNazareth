@@ -1,37 +1,48 @@
 <h1 align="center">👋 Olá, eu sou Rafael Nazareth</h1>
 
 <p align="center">
-💻 Desenvolvedor em formação focado em desenvolvimento web.
+💻 Desenvolvedor em formação focado em desenvolvimento Web
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RafaelNazareth&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
 🎓 Estudante de programação  
-💡 Focado em **Frontend e Backend**  
+💡 Focado em desenvolvimento **Frontend e Backend**  
 📚 Aprendendo **JavaScript, Java e Git**  
 🎯 Buscando minha primeira oportunidade como **Dev Júnior / Estágio**
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,css,js,java,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# ⭐ Tech Badges
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RafaelNazareth&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🎨 Projetos em Destaque
 
 <p align="center">
 
@@ -55,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -67,7 +78,15 @@
 
 ---
 
-## 📈 Activity Graph
+# 🔥 Streak de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RafaelNazareth&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelNazareth&theme=tokyo-night"/>
@@ -75,22 +94,23 @@
 
 ---
 
-## 📫 Contato
+# 🧠 Roadmap de Aprendizado
 
-<p align="center">
+```text
+✔ HTML
+✔ CSS
+✔ Git / GitHub
+✔ JavaScript básico
+✔ Lógica de programação
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+🔄 Estudando agora
+• Java
+• DOM
+• APIs
+• Estrutura de dados
 
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-⭐ Obrigado por visitar meu perfil!
-</p>
+📚 Próximos passos
+• React
+• Node.js
+• SQL
+• Testes automatizados
