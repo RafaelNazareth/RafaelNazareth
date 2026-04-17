@@ -17,7 +17,7 @@
 > **"Desenvolvedor em formação com projetos reais e funcionais. Especializado em JavaScript, com forte atenção a usabilidade e experiência do usuário. Busco minha primeira oportunidade para aplicar e expandir meus conhecimentos em um ambiente profissional."**
 
 | **📍 Localização** | Brasil |
-| **🎓 Formação** | Programação Web (em andamento) |
+| **🎓 Formação** | ADS - FAculdade de Ciêcias Médicas da Santa Casa de São Paulo |
 | **🎯 Objetivo** | Estágio ou Dev Júnior - Front-end / Full Stack |
 | **⚡ Diferenciais** | Projetos completos com CRUD, localStorage, busca em tempo real |
 
