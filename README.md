@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 👨‍💻 Rafael Nazareth
 
 ### Desenvolvedor Full-Stack Júnior | JavaScript • Node.js • React • SQL
