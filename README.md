@@ -33,7 +33,7 @@
 | **📍 Localização** | São Paulo, SP – Brasil |
 | **🎓 Formação** | Análise e Desenvolvimento de Sistemas (ADS) — Faculdade de Ciências Médicas da Santa Casa de São Paulo |
 | **🎯 Objetivo** | Estágio ou Desenvolvedor Júnior — Full-Stack |
-| **⚡ Diferencial** | Projeto real em produção para uma instituição de saúde + 5 anos de liderança e análise de dados |
+| **⚡ Diferencial** | Projeto autoral em produção para uma instituição de saúde + formação prática em Node/Express/React/Redux + 5 anos de liderança e análise de dados |
 
 ---
 
@@ -41,7 +41,7 @@
 
 ### 💡 Por que esse projeto importa?
 
-Sistema real, desenvolvido para o Serviço-Escola de Psicologia da Faculdade de Ciências Médicas da Santa Casa de São Paulo — não é um exercício de portfólio, é uma solução com caso de uso institucional real.
+Sistema real, desenvolvido **solo, do zero**, para o Serviço-Escola de Psicologia da Faculdade de Ciências Médicas da Santa Casa de São Paulo — não é um exercício de portfólio, é uma solução com caso de uso institucional real.
 
 <p align="center">
   <a href="https://github.com/RafaelNazareth/prontuario">
@@ -71,15 +71,30 @@ Sistema real, desenvolvido para o Serviço-Escola de Psicologia da Faculdade de 
 - Camada de back-end e persistência em **banco de dados SQL**
 - Migração da arquitetura para **módulos ES (ES Modules)**, separando regras de negócio, persistência e interface
 
-### 🎯 Competências demonstradas
+---
 
-- Capacidade de entregar um sistema **completo e funcional**, do levantamento de requisitos à entrega
-- Atenção a **usabilidade** em contexto clínico real
-- **Autonomia técnica** — atuação solo em todas as etapas do projeto
+## 📚 Formação Prática: Node.js, Express & React
+
+Além do projeto autoral acima, desenvolvi múltiplas aplicações práticas durante minha formação intensiva em JavaScript, consolidando o ecossistema full-stack:
+
+**Back-end (Node.js + Express)**
+- Construção de APIs REST com Express, rotas, controllers e middlewares customizados
+- Autenticação de usuários com **JWT** e sessões com Express Session
+- Integração com **MongoDB** e **MySQL**, incluindo modelagem de dados e seeds
+- Upload e tratamento de arquivos, CRUD completo (alunos/contatos)
+- **Deploy em servidor Linux**, com configuração de chaves SSH
+
+**Front-end avançado (React)**
+- Aplicações React com componentes funcionais e de classe
+- Gerenciamento de estado global com **Redux** e **Redux-Saga**
+- Roteamento com **React Router DOM**, estilização com **Styled-Components**
+- CRUD de tarefas com persistência em LocalStorage
+
+> Esses projetos fazem parte da minha formação prática (Udemy, 150+h) e consolidam, com código real codado por mim, a stack que aplico hoje no desenvolvimento do PEP.
 
 ---
 
-## 🗂️ Outros Projetos
+## 🗂️ Outros Projetos Autorais
 
 | Projeto | Descrição | Links |
 |---------|-----------|-------|
@@ -112,7 +127,12 @@ Sistema real, desenvolvido para o Serviço-Escola de Psicologia da Faculdade de 
 
 
 
-### Back-end & Dados (em desenvolvimento)
+
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+
+
+### Back-end & Dados
 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -120,7 +140,17 @@ Sistema real, desenvolvido para o Serviço-Escola de Psicologia da Faculdade de 
 
 
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+
+
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+
+
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
 
@@ -141,7 +171,7 @@ Sistema real, desenvolvido para o Serviço-Escola de Psicologia da Faculdade de 
 
 
 
-### Ferramentas
+### Ferramentas & DevOps
 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -150,6 +180,11 @@ Sistema real, desenvolvido para o Serviço-Escola de Psicologia da Faculdade de 
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
 
@@ -183,8 +218,8 @@ Sistema real, desenvolvido para o Serviço-Escola de Psicologia da Faculdade de 
 
 | O que você precisa | O que eu entrego |
 |---|---|
-| Alguém que entrega resultados | ✅ Projeto real, completo e funcional (PEP) |
-| Capacidade de aprendizado rápido | ✅ Stack full-stack construída em poucos meses, com base sólida |
+| Alguém que entrega resultados | ✅ Projeto autoral real e funcional (PEP) |
+| Stack full-stack aplicável | ✅ Node, Express, React e Redux já praticados em projetos reais |
 | Comprometimento | ✅ Código público, commits organizados, evolução documentada |
 | Visão de negócio | ✅ 5+ anos liderando equipes e analisando KPIs antes da transição |
 | Potencial para crescer | ✅ Roadmap de aprendizado ativo e em execução |
@@ -196,14 +231,9 @@ Sistema real, desenvolvido para o Serviço-Escola de Psicologia da Faculdade de 
 | Período | Foco | Status |
 |---------|------|--------|
 | **2024** | Fundamentos Web | HTML5, CSS3, JavaScript, Git ✅ |
-| **2025–2026** | Front-end Avançado | CRUD completo, Sistema PEP, busca em tempo real ✅ |
-| **2026** | Full-Stack | Node.js, React, SQL, arquitetura em ES Modules 🔄 *(em andamento)* |
-| **Próximos passos** | Especialização | APIs REST, TypeScript avançado, testes automatizados |
-
-### 🔥 Atualmente focado em:
-- **Node.js & Express** — construção da API do PEP
-- **Modelagem de banco de dados SQL** — estrutura de dados para o sistema de prontuário
-- **Arquitetura em ES Modules** — refatoração de monólito para módulos organizados
+| **2025–2026** | Full-Stack prático | Node, Express, React, Redux, MongoDB, MySQL, deploy Linux ✅ |
+| **2026** | Projeto autoral | PEP — front-end entregue, back-end SQL em construção 🔄 |
+| **Próximos passos** | Especialização | TypeScript avançado, testes automatizados, CI/CD |
 
 ---
 
